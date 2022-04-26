@@ -1,2 +1,2 @@
-# codecademy-git-test
+# git-test
  
